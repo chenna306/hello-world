@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies & Linux_Training!!! </h1>
+<h1> Hello How are you, Welcome to Valaxy Technologies & Linux_Training!!! </h1>
 
